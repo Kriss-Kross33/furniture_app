@@ -1,6 +1,8 @@
 # furniture_app
 
+Design inspiration: https://dribbble.com/shots/5601479-Furniture-app/attachments/1210953
 
-![furniture_app_2](https://user-images.githubusercontent.com/44390350/112872032-6ef29400-90af-11eb-8d88-725f4d5bf5d3.gif)
+![furniture_app](https://user-images.githubusercontent.com/44390350/112872129-89c50880-90af-11eb-99b3-9c04876c7986.gif)
+
 
 
